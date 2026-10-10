@@ -13,19 +13,19 @@
 ![ZeroSpend Budget](images/budget.png)
 
 2. Задание 2: экземпляр webserver в состоянии Running с пройденными проверками.
-![EC2 Running](path/to/screenshot2.png)
+![EC2 Running](images/running.png)
 
-3. Задание 2: страница nginx в браузере по публичному IP.
-![Nginx Welcome Page](path/to/screenshot3.png)
+3. Задание 3: страница nginx в браузере по публичному IP.
+![Nginx Welcome Page](images/nginx.png)
 
-4. Задание 3: вкладка Monitoring и фрагмент System log с установкой nginx.
-![Monitoring and System Log](path/to/screenshot4.png)
+4. Задание 4: вкладка Monitoring и фрагмент System log с установкой nginx.
+![Monitoring and System Log](images/monitoring.png)
+![Monitoring and System Log](images/systemlog.png)
+5. Задание 5: успешное подключение по SSH и вывод systemctl status nginx.
+![SSH Connection and Nginx Status](images/statusnfinx.png)
+6. Задание 6: ваш сайт в браузере и вывод ls -l /usr/share/nginx/html.
+![Custom Website and Files List](images/site.png)
+![Custom Website and Files List](images/index.png)
 
-5. Задание 4: успешное подключение по SSH и вывод systemctl status nginx.
-![SSH Connection and Nginx Status](path/to/screenshot5.png)
-
-6. Задание 5: ваш сайт в браузере и вывод ls -l /usr/share/nginx/html.
-![Custom Website and Files List](path/to/screenshot6.png)
-
-7. Задание 6: команда aws ec2 stop-instances и её вывод.
-![AWS CLI Stop Instances](path/to/screenshot7.png)
+7. Задание 7: команда aws ec2 stop-instances и её вывод.
+![AWS CLI Stop Instances](images/7.png)
