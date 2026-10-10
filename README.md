@@ -31,6 +31,7 @@
 
 Задание 7: команда aws ec2 stop-instances и её вывод.
 ![AWS CLI Stop Instances](images/7.png)
+
 ---
 
 ## 3. Задания продвинутого уровня
