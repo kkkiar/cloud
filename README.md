@@ -21,8 +21,10 @@
 Задание 4: вкладка Monitoring и фрагмент System log с установкой nginx.
 ![Monitoring and System Log](images/monitoring.png)
 ![Monitoring and System Log](images/systemlog.png)
+
 Задание 5: успешное подключение по SSH и вывод systemctl status nginx.
 ![SSH Connection and Nginx Status](images/statusnginx.png)
+
 Задание 6: ваш сайт в браузере и вывод ls -l /usr/share/nginx/html.
 ![Custom Website and Files List](images/site.png)
 ![Custom Website and Files List](images/index.png)
