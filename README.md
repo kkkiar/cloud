@@ -10,7 +10,7 @@
 ## 2. Задания базового уровня
 
 1. Задание 1: бюджет ZeroSpend в списке Budgets.
-![ZeroSpend Budget](path/to/screenshot1.png)
+![ZeroSpend Budget](images/budget.png)
 
 2. Задание 2: экземпляр webserver в состоянии Running с пройденными проверками.
 ![EC2 Running](path/to/screenshot2.png)
