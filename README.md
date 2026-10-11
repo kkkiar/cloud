@@ -69,8 +69,8 @@
 
 ## Архитектура
 
-![Схема архитектуры](/arch.png)
+![Схема архитектуры](images/images/arch.png)
 
 Схема развёртывания TimeCapsule на одном экземпляре EC2.
 
-ADR: [docs/adr/0001-deploy-method.md](docs/adr/0001-deploy-method.md)
+ADR: [https://github.com/kkkiar-cloud/timecapsule/blob/main/docs/adr/0001-deploy-method.md](https://github.com/kkkiar-cloud/timecapsule/blob/main/docs/adr/0001-deploy-method.md)
