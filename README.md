@@ -35,42 +35,42 @@
 ---
 
 ## 3. Задания продвинутого уровня
+
+Задание 9:Вход в базу по паролю: psql ... -c "SELECT 1;" возвращает 1.
 ![Задание 9](images/images/9.png)
 
-Вход в базу по паролю: psql ... -c "SELECT 1;" возвращает 1.
-
+Задание 10: Вывод php bin/init-db.php: Database is ready.
 ![Задание 10](images/images/10.png)
 
-Вывод php bin/init-db.php: Database is ready.
 
+Задание 11: Вывод sudo nginx -t: syntax is ok, test is successful.
 ![Задание 11](images/images/11.1.png)
 
-Вывод sudo nginx -t: syntax is ok, test is successful.
 
+Задание 11.1: Приложение TimeCapsule в браузере по публичному IP.
 ![Задание 11](images/images/11.png)
 
-Приложение TimeCapsule в браузере по публичному IP.
 
+Задание 11.2: Страница /health: {"status":"ok","db":"ok",...}.
 ![Задание 11](images/images/11.2.png)
 
-Страница /health: {"status":"ok","db":"ok",...}.
 
+Задание 13: Новая версия с моей надписью в подвале страницы.
 ![Задание 13](images/images/13.png)
 
-Новая версия с моей надписью в подвале страницы.
 
+Задание 13.1: Ошибка 500 после выпуска сломанной версии.
 ![Задание 13](images/images/14.png)
 
-Ошибка 500 после выпуска сломанной версии.
 
+Задание 13.2: Работающий сайт после git revert и повторного деплоя.
 ![Задание 13](images/images/14.1.png)
 
-Работающий сайт после git revert и повторного деплоя.
 
 ## Архитектура
 
+Схема развёртывания TimeCapsule на одном экземпляре EC2.
 ![Схема архитектуры](images/images/arch.png)
 
-Схема развёртывания TimeCapsule на одном экземпляре EC2.
 
 ADR: [https://github.com/kkkiar-cloud/timecapsule/blob/main/docs/adr/0001-deploy-method.md](https://github.com/kkkiar-cloud/timecapsule/blob/main/docs/adr/0001-deploy-method.md)
